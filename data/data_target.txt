@@ -1,0 +1,6 @@
+int target[2][2] = {
+    // TARGET 1 Apel
+    {1, 0,},
+    // TARGET 2 Pir
+    {0, 1,},
+};
